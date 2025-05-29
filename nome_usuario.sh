@@ -2,5 +2,3 @@
 
 echo "Usuário logado: $(whoami)"
 echo "Diretório Inicial: $HOME"
-
-eval echo "$whoami"
